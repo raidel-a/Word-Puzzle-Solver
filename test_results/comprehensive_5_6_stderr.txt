@@ -1,0 +1,4 @@
+Thread #0 started!
+Thread #0 joined!
+Total run time: 1.15 seconds
+Total binary search time: 1.03 seconds
